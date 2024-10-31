@@ -1,0 +1,3 @@
+plaintext
+Copy code
+Це файл для гілки feature.
